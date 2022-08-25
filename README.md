@@ -4,10 +4,10 @@
 
 ### Ucuncu baslik
 
+asagıda kod satiri var!
 `console.log("Hello, World!");`
+------------------------------------------------------------------------------------------------------
 
-*liste 1
-*liste 2
-*liste 3
+>alinti metni
 
 [google gider](https://www.google.com.tr)
